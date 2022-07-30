@@ -4,7 +4,7 @@ void main(){
 
 FILE *ptr = fopen("file.txt" , "a+");
 
-printf("Enter your number  ");
+printf("Enter data  ");
 
 long long  int number;
 
